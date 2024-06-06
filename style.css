@@ -1,0 +1,55 @@
+.bjp img{
+  width: 70px;
+  height: 60px;
+  border-radius: 50%;
+  margin-left: 170px;
+}
+.shipping img{
+  height: 100%;
+  width: 200px;
+  border-radius: 5px;
+}
+body{
+  background: rgb(90, 130, 150);
+}
+h1{
+  color: white;
+  font-size: 40px;
+  padding-left: 70px;
+  font-weight: bold;
+  font-family:"Lucida Console", "Courier New", monospace;
+}
+.offer{
+  padding-left: 50px;
+  color: navy;
+}
+h3{
+  color: black;
+  font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', seri;
+  font-size: 25px;
+}
+.step h4{
+  font-size: 19px;
+}
+a{
+  margin-left: 130px;
+  font-size: 30px;
+}
+li{
+  font-size: 17px;
+  color: #fff;
+}
+.shopping{
+  width: 100%;
+  height: 270px;
+  background: rosybrown;
+  border-radius: 10px;
+}
+p{
+  color: #fff;
+}
+img{
+  height: 100px;
+  width: 100%;
+}
